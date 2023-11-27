@@ -30,6 +30,6 @@ export default {
         ],
     }),
 
-    base: '/mtm6407-static-site-polo0016/'
+    // base: '/mtm6407-static-site-polo0016/'
 
 }
