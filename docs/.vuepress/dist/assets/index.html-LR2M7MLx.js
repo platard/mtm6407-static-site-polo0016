@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Using a layout","lang":"en-US","frontmatter":{"title":"Using a layout","layout":"CustomLayout"},"headers":[],"git":{"updatedTime":1701111814000,"contributors":[{"name":"platara","email":"plat0033@algonquinlive.com","commits":1}]},"filePathRelative":"index.md"}');export{a as data};
